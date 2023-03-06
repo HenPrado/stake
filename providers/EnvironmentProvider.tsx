@@ -21,8 +21,8 @@ export interface EnvironmentContextValues {
 export const ENVIRONMENTS: Environment[] = [
   {
     label: 'mainnet-beta',
-    primary: process.env.MAINNET_PRIMARY || 'https://rpc.ankr.com/solana',
-    secondary: process.env.MAINNET_SECONDARY || 'https://rpc.ankr.com/solana',
+    primary: process.env.MAINNET_PRIMARY || 'https://late-silent-meme.solana-mainnet.discover.quiknode.pro/12366a65a6dd4705efc7f92dc12c9d4554d3c46e/',
+    secondary: process.env.MAINNET_SECONDARY || 'https://late-silent-meme.solana-mainnet.discover.quiknode.pro/12366a65a6dd4705efc7f92dc12c9d4554d3c46e/',
   },
   {
     label: 'testnet',
