@@ -219,6 +219,6 @@ export const stakePoolsWithHostnames: {
   },
   {
     stakePoolAddress: 'Bb76RqtkFyK9KQNaUBQ4DHF21opK83rs1KVuky3tAwAM',
-    hostname: 'https://stake.cyberskies.io/',
+    hostname: 'stake-eosin.vercel.app',
   },
 ]
